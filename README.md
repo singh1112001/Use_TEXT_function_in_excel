@@ -7,12 +7,12 @@ If we specifically want to analyze data based on hours, days or month, it become
 
 ## Beauty of TEXT function
 
-TEXT() function takes two argument, first is the location of data (value), other is in which format you want your data.
+**TEXT()** function takes two argument, first is the location of data (value), other is in which format you want your data.
 ![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/assets/88104229/459f0430-ac54-4ddd-926a-22b4c59553e4)
 
-You can manipulate data and extract various information as string from given timestamp. 
+You can manipulate data and extract various information as string from given timestamp. <Br>
 1. Extract Date from timestamp using TEXT()
-   =Text(value, "DD/MM/YYYY") -> This will return the text in the form of DATE  <br>
+   =Text(value, "DD/MM/YYYY") -> This will return the text in the form of DATE  <br><br>
 ![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/assets/88104229/9886a30d-6ba5-4a94-afb7-a301b89d6499)
 
 Result->
@@ -20,8 +20,8 @@ Result->
 
 
 2. Extract Time from from timestamp using TEXT()
-   =text(value,"H:MM") <br>
-  ![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/assets/88104229/8e134c28-8d7b-4c1c-a6a8-28bdaa5daa4d) <br> 
+   =text(value,"H:MM") <br><br>
+  ![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/assets/88104229/8e134c28-8d7b-4c1c-a6a8-28bdaa5daa4d) <br>  
 Result-> ![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/assets/88104229/acfb669e-91b8-41a6-9145-e32d1bc2f31d) <br>
 
 3. Extract Hour of time
