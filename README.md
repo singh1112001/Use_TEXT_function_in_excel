@@ -34,8 +34,9 @@ Rsult -> ![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/ass
     = text(value,"DD")  <br>
     ![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/assets/88104229/ca336d0d-bfea-4def-8732-9e004c34b1cf)
 <br>
-Result -> 
-![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/assets/88104229/8d01ba36-b1fe-45d1-a6f7-a32a5604cd1e)
+Result ->
+
+![image](https://github.com/singh1112001/Use_TEXT_function_in_excel/assets/88104229/51c582b5-fb82-4b63-b6a4-cf3d75e09d27)
 
 
 
